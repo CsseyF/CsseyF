@@ -25,7 +25,7 @@
 ---
 
 ## ⭐ Information about my GitHub account
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aureo-Bueno&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CsseyF&show_icons=true)
 
 <p align="left">
   Contacts: ⤵️
